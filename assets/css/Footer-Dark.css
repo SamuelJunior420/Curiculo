@@ -91,3 +91,24 @@
   margin-bottom: 0;
 }
 
+.link-w {
+  color: #ffffff;
+}
+
+.icon.ion-social-instagram {
+  font-size: 37px;
+  margin: 5px 5px 5px 5px;
+  color: rgb(255,255,255);
+}
+
+.icon.ion-social-facebook {
+  font-size: 37px;
+  margin: 5px 5px 5px 5px;
+  color: rgb(255,255,255);
+}
+
+.rounded-pill.h-m {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
